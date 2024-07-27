@@ -52,12 +52,8 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
    Run the bot using pumpfunbot.exe
 
 ### Config Setup
-Run the bot using Node.js:
-   ```sh
-   node index.js
-
-
-{
+      ```sh
+      {
     "privateKey": "Your Private Key",
     "APIKey": "Leave it blank",
     "autoSellTimeout": "sell automatically after n seconds",
@@ -73,6 +69,7 @@ Run the bot using Node.js:
     "buyFee": "Priority fee during buy transactions. min 0.005 recommanded",
     "sellFee": "Priority fee during sell transactions. min 0.005 recommanded",
   }
+
 ### Contact Us
 If you're interested in acquiring the Pump.fun bot, or have any questions, please contact us through the following channels:
 
