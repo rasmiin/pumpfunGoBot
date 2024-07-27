@@ -53,7 +53,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 ### Config Setup
 
-      ```sh
+      
       {
        "privateKey": "Your Private Key",
        "APIKey": "Leave it blank",
