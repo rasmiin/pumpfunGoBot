@@ -47,8 +47,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
    
 2. **Setup Config:**
    Navigate to the extracted directory and setup the config.json file:
-
-      
+   ```sh   
       {
        "privateKey": "Your Private Key",
        "APIKey": "Leave it blank",
@@ -66,7 +65,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
        "sellFee": "Priority fee during sell transactions. min 0.005 recommanded",
      }
 
-3. **Start the Bot:**
+4. **Start the Bot:**
    Run the bot using pumpfunbot.exe
 
 ### Contact Us
