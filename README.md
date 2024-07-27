@@ -52,7 +52,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
    Run the bot using pumpfunbot.exe
 
 ### Config Setup
-   Edit your config.json file:
+
       ```sh
       {
        "privateKey": "Your Private Key",
