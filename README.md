@@ -54,21 +54,21 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 ### Config Setup
       ```sh
       {
-    "privateKey": "Your Private Key",
-    "APIKey": "Leave it blank",
-    "autoSellTimeout": "sell automatically after n seconds",
-    "maxInitialBuy": "dev max holding amount (in sol)",
-    "minInitialBuy": "dev min holding amount (in sol)",
-    "pendingTradesLimit": "Trades limit to run at a time",
-    "takeProfit": "target percentage",
-    "stopLoss": "Stop loss percantage",
-    "buyAmount": "amount (min 0.5 sol recommanded)",
-    "sellAmount": "100% (Sell amount in percent or you can use fix amount)",
-    "buySlippage": "Slippage during buy transactions. min 20 recommanded",
-    "sellSlippage": "Slippage during sell transactions. min 50 recommanded",
-    "buyFee": "Priority fee during buy transactions. min 0.005 recommanded",
-    "sellFee": "Priority fee during sell transactions. min 0.005 recommanded",
-  }
+       "privateKey": "Your Private Key",
+       "APIKey": "Leave it blank",
+       "autoSellTimeout": "sell automatically after n seconds",
+       "maxInitialBuy": "dev max holding amount (in sol)",
+       "minInitialBuy": "dev min holding amount (in sol)",
+       "pendingTradesLimit": "Trades limit to run at a time",
+       "takeProfit": "target percentage",
+       "stopLoss": "Stop loss percantage",
+       "buyAmount": "amount (min 0.5 sol recommanded)",
+       "sellAmount": "100% (Sell amount in percent or you can use fix amount)",
+       "buySlippage": "Slippage during buy transactions. min 20 recommanded",
+       "sellSlippage": "Slippage during sell transactions. min 50 recommanded",
+       "buyFee": "Priority fee during buy transactions. min 0.005 recommanded",
+       "sellFee": "Priority fee during sell transactions. min 0.005 recommanded",
+     }
 
 ### Contact Us
 If you're interested in acquiring the Pump.fun bot, or have any questions, please contact us through the following channels:
